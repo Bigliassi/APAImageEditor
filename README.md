@@ -1,3 +1,5 @@
+Developed by Dr. Marcelo Bigliassi (Florida International University)
+
 # APA Image Editor
 
 A local desktop application for editing research figures and graphs that are commonly used in APA publications and grants. This tool allows researchers to make small modifications to figures without requiring changes to the original code that generated them.
